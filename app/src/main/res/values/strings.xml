@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Contacts App</string>
+    <string name="contacts">Fruits</string>
+    <string name="save">Save Fruit</string>
+    <string name="details">Fruit Details</string>
+    <string name="image_button">image button</string>
+    <string name="enter_fruit_name">Enter fruit name</string>
+    <string name="enter_fruit_color">Enter fruit color</string>
+    <string name="is_this_a_favourite">Is this a favourite?</string>
+</resources>
